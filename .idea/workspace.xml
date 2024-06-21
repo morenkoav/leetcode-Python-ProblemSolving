@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db51fbf5-c8a8-43d8-bec6-ee380dcc8029" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1. TwoSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1431. Kids With the Greatest Number of Candies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1757. Recyclable and Low Fat Products.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1768. Merge Strings Alternately.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2877. Create a DataFrame from List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2878. Get the Size of a DataFrame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2879. Display the First Three Rows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2880. Select Data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2881. Create a New Column.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2882. Drop Duplicate Rows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2883. Drop Missing Data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2884. Modify Columns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2885. Rename Columns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2886. Change Data Type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2887. Fill Missing Data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2888. Reshape Data: Concatenate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2889. Reshape Data: Pivot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2890. Reshape Data: Melt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2891. Method Chaining.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/595. Big Countries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. Reverse Integer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TwoSum.py" beforeDir="false" />
-    </list>
+    <list default="true" id="db51fbf5-c8a8-43d8-bec6-ee380dcc8029" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
